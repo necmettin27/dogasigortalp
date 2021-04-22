@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Linkedin" transform="translate(-542 -293)">
+        <rect id="Rectangle_2" width="220" height="56" fill="#4875b3" rx="10" transform="translate(542 293)"/>
+        <text id="LinkedIn-2" fill="#fff" font-family="Gilroy-Medium" font-size="20px" font-weight="500" letter-spacing="-0.03em" transform="translate(562 328)">
+            <tspan x="0" y="0">LinkedIn</tspan>
+        </text>
+        <g id="linkedin-3" transform="translate(715 305)">
+            <path id="Path_7" d="M6.586 151.625H1.528A1.029 1.029 0 0 0 .5 152.653v19.06a1.029 1.029 0 0 0 1.028 1.028h5.058a1.029 1.029 0 0 0 1.028-1.028v-19.06a1.029 1.029 0 0 0-1.028-1.028zm-.733 19.355H2.26v-17.6h3.593zm0 0" class="cls-3" transform="translate(-.471 -142.741)"/>
+            <path id="Path_8" d="M3.586 0a3.586 3.586 0 1 0 3.586 3.586A3.59 3.59 0 0 0 3.586 0zm0 5.412a1.826 1.826 0 1 1 1.826-1.826 1.828 1.828 0 0 1-1.826 1.826zm0 0" class="cls-3"/>
+            <path id="Path_9" d="M172.116 153.863a6.562 6.562 0 0 0-4.326-1.52 6.632 6.632 0 0 0-2.81.683v-.416a.982.982 0 0 0-.982-.982h-5.149a.982.982 0 0 0-.982.982v19.152a.982.982 0 0 0 .982.982h5.251a.88.88 0 0 0 .88-.88v-11.418a1.821 1.821 0 0 1 1.742-1.834 1.8 1.8 0 0 1 1.851 1.8v11.475a.862.862 0 0 0 .862.862h5.047a.862.862 0 0 0 .862-.862v-11.131a8.957 8.957 0 0 0-3.228-6.893zm1.467 17.121h-3.249v-10.577a3.557 3.557 0 0 0-7.113 0v10.577h-3.593v-17.6h3.593v1.279a.879.879 0 0 0 1.463.659 4.876 4.876 0 0 1 3.139-1.224 4.8 4.8 0 0 1 3.166 1.111 7.2 7.2 0 0 1 2.595 5.542zm0 0" class="cls-3" transform="translate(-148.617 -142.744)"/>
+        </g>
+    </g>
+</svg>

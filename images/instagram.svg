@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Instagram" transform="translate(-542 -293)">
+        <rect id="Rectangle_2" width="220" height="56" fill="#cf2d62" rx="10" transform="translate(542 293)"/>
+        <text id="Instagram-2" fill="#fff" font-family="Gilroy-Medium" font-size="20px" font-weight="500" letter-spacing="-0.03em" transform="translate(562 328)">
+            <tspan x="0" y="0">Instagram</tspan>
+        </text>
+        <g id="instagram-3" transform="translate(712 306)">
+            <path id="Path_2" d="M21.879 0H8.121A8.13 8.13 0 0 0 0 8.121V21.88A8.13 8.13 0 0 0 8.121 30H21.88A8.13 8.13 0 0 0 30 21.88V8.121A8.13 8.13 0 0 0 21.879 0zm6.362 21.88a6.369 6.369 0 0 1-6.362 6.362H8.121a6.369 6.369 0 0 1-6.362-6.362V8.121a6.369 6.369 0 0 1 6.362-6.362H21.88a6.369 6.369 0 0 1 6.362 6.362zm0 0" class="cls-3"/>
+            <path id="Path_3" d="M124.207 116a8.2 8.2 0 1 0 8.2 8.2 8.212 8.212 0 0 0-8.2-8.2zm0 14.647a6.444 6.444 0 1 1 6.444-6.444 6.452 6.452 0 0 1-6.444 6.448zm0 0" class="cls-3" transform="translate(-109.207 -109.207)"/>
+            <path id="Path_4" d="M360.4 66.285a2.424 2.424 0 1 0 2.424 2.424 2.427 2.427 0 0 0-2.424-2.424zm0 3.089a.665.665 0 1 1 .665-.665.666.666 0 0 1-.665.665zm0 0" class="cls-3" transform="translate(-337.001 -62.401)"/>
+        </g>
+    </g>
+</svg>
